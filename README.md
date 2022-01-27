@@ -2,7 +2,7 @@
 ## Installation
 
 ```
-npm i --save react-native-radio-button
+npm i --save simple-react-native-radio-button-group
 
 ```
 ## Usage 

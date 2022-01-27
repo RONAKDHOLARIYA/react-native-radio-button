@@ -1,7 +1,7 @@
 {
-  "name": "react-native-readio-button",
-  "version": "1.0.0",
-  "description": "``` npm i --save react-native-radio-button",
+  "name": "simple-react-native-radio-button-group",
+  "version": "1.1.0",
+  "description": "``` npm i --save simple-react-native-radio-button-group",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
