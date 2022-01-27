@@ -1,0 +1,27 @@
+{
+  "name": "react-native-readio-button",
+  "version": "1.0.0",
+  "description": "``` npm i --save react-native-radio-button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RONAKDHOLARIYA/react-native-radio-button.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "radio-button",
+    "radio-form",
+    "simple-radio-button",
+    "react-native-radio-button"
+  ],
+  "author": "Ronak Dholariya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RONAKDHOLARIYA/react-native-radio-button/issues"
+  },
+  "homepage": "https://github.com/RONAKDHOLARIYA/react-native-radio-button#readme"
+}
