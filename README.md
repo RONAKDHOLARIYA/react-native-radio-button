@@ -3,12 +3,11 @@
 
 ```
 npm i --save simple-react-native-radio-button-group
-
 ```
 ## Usage 
 ```js
 import React, {useEffect, useState} from 'react';
-import RadioButton from 'react-native-radio-button';
+import {RadioButton} from 'simple-react-native-radio-button-group';
 let Form = ()=>{
     let radioButtonsData=[{label:'item1',value:0},{label:'item2',value:1}]
     let [item,setItem] = useState(0)
@@ -21,7 +20,7 @@ let Form = ()=>{
             disabled //use this for disable your button
           />
 }
-``
+```
 
 ## License
 The MIT License.
